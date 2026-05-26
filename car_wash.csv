@@ -1,0 +1,201 @@
+date,service_type,price,payment_method,customer_id
+2025-04-01,Basic Wash,17,Card,CUST9590
+2025-03-15,Interior Cleaning,36,E-Wallet,CUST7345
+2025-05-17,Premium Wash,25,Cash,CUST2023
+2025-04-18,Basic Wash,16,Card,CUST5593
+2025-05-11,Wax & Polish,60,Cash,CUST5397
+2025-04-12,Basic Wash,22,E-Wallet,CUST9279
+2025-02-24,Interior Cleaning,39,E-Wallet,CUST7329
+2025-04-14,Interior Cleaning,38,Cash,CUST2797
+2025-01-10,Full Detailing,120,E-Wallet,CUST5605
+2025-05-22,Premium Wash,30,E-Wallet,CUST8263
+2025-04-26,Premium Wash,29,Cash,CUST9871
+2025-03-07,Full Detailing,127,Cash,CUST9430
+2025-03-15,Basic Wash,21,E-Wallet,CUST5075
+2025-01-05,Interior Cleaning,35,E-Wallet,CUST6490
+2025-03-18,Wax & Polish,51,E-Wallet,CUST3174
+2025-03-13,Basic Wash,17,Cash,CUST1498
+2025-05-11,Full Detailing,125,Card,CUST4213
+2025-02-23,Basic Wash,22,Cash,CUST7957
+2025-05-09,Wax & Polish,57,E-Wallet,CUST2202
+2025-02-23,Full Detailing,126,Card,CUST9021
+2025-04-30,Wax & Polish,53,E-Wallet,CUST5673
+2025-01-05,Interior Cleaning,41,E-Wallet,CUST7798
+2025-05-03,Full Detailing,125,E-Wallet,CUST7119
+2025-01-05,Full Detailing,123,Cash,CUST1952
+2025-05-13,Full Detailing,129,Card,CUST2666
+2025-04-05,Premium Wash,28,Card,CUST2157
+2025-04-30,Wax & Polish,60,E-Wallet,CUST5149
+2025-04-14,Interior Cleaning,44,E-Wallet,CUST9305
+2025-02-01,Full Detailing,120,Card,CUST1693
+2025-02-26,Basic Wash,17,Cash,CUST4209
+2025-04-29,Basic Wash,17,Card,CUST5316
+2025-03-31,Wax & Polish,59,Card,CUST5263
+2025-01-03,Premium Wash,25,E-Wallet,CUST6205
+2025-05-08,Full Detailing,121,Cash,CUST2561
+2025-01-21,Basic Wash,23,Cash,CUST2681
+2025-03-10,Wax & Polish,53,Cash,CUST7353
+2025-05-04,Premium Wash,31,E-Wallet,CUST8571
+2025-04-01,Wax & Polish,58,Card,CUST2016
+2025-01-30,Basic Wash,20,Cash,CUST8341
+2025-05-07,Basic Wash,17,E-Wallet,CUST3067
+2025-05-19,Interior Cleaning,44,Card,CUST2250
+2025-03-30,Basic Wash,23,E-Wallet,CUST2332
+2025-05-09,Interior Cleaning,35,Card,CUST9349
+2025-04-06,Basic Wash,18,Cash,CUST5798
+2025-02-10,Wax & Polish,58,E-Wallet,CUST5911
+2025-02-24,Interior Cleaning,42,Cash,CUST1752
+2025-04-06,Interior Cleaning,38,Cash,CUST2113
+2025-03-23,Interior Cleaning,43,Card,CUST6654
+2025-02-15,Full Detailing,130,Cash,CUST6489
+2025-02-26,Wax & Polish,54,Card,CUST1935
+2025-05-17,Full Detailing,130,E-Wallet,CUST5569
+2025-04-06,Full Detailing,126,E-Wallet,CUST9369
+2025-02-03,Premium Wash,25,Card,CUST5771
+2025-05-24,Interior Cleaning,43,Cash,CUST5036
+2025-02-26,Premium Wash,28,E-Wallet,CUST2984
+2025-01-29,Interior Cleaning,44,Cash,CUST9505
+2025-03-07,Wax & Polish,56,Card,CUST6376
+2025-02-22,Wax & Polish,60,Cash,CUST7416
+2025-04-12,Interior Cleaning,44,Card,CUST8830
+2025-04-29,Basic Wash,24,Card,CUST3371
+2025-02-16,Basic Wash,16,Cash,CUST6239
+2025-03-26,Full Detailing,122,Card,CUST5980
+2025-05-02,Basic Wash,24,Card,CUST8141
+2025-03-25,Basic Wash,25,Card,CUST3434
+2025-02-26,Full Detailing,130,Card,CUST7212
+2025-03-25,Basic Wash,17,E-Wallet,CUST7485
+2025-01-01,Basic Wash,18,Cash,CUST9439
+2025-05-09,Premium Wash,32,E-Wallet,CUST2268
+2025-01-22,Wax & Polish,54,Card,CUST7397
+2025-03-29,Interior Cleaning,40,Cash,CUST1307
+2025-05-01,Premium Wash,29,Cash,CUST5230
+2025-02-16,Interior Cleaning,36,Cash,CUST3631
+2025-01-08,Full Detailing,124,Cash,CUST3726
+2025-04-23,Basic Wash,18,Card,CUST3844
+2025-01-24,Premium Wash,31,Card,CUST5406
+2025-01-02,Full Detailing,124,Card,CUST5095
+2025-05-24,Full Detailing,123,Card,CUST5593
+2025-02-07,Full Detailing,125,Cash,CUST6820
+2025-05-25,Premium Wash,30,Card,CUST4745
+2025-05-14,Basic Wash,18,Cash,CUST3656
+2025-05-01,Interior Cleaning,40,Card,CUST3673
+2025-02-14,Wax & Polish,53,Card,CUST1151
+2025-02-13,Interior Cleaning,40,E-Wallet,CUST8962
+2025-01-04,Interior Cleaning,38,Cash,CUST8539
+2025-05-28,Full Detailing,126,Cash,CUST9614
+2025-01-29,Premium Wash,26,Card,CUST8399
+2025-01-02,Basic Wash,22,Card,CUST4927
+2025-04-18,Wax & Polish,53,Card,CUST8131
+2025-01-14,Wax & Polish,60,Cash,CUST8785
+2025-01-07,Wax & Polish,56,Card,CUST9385
+2025-03-29,Basic Wash,23,E-Wallet,CUST1290
+2025-02-10,Interior Cleaning,36,E-Wallet,CUST4774
+2025-04-25,Interior Cleaning,42,E-Wallet,CUST4440
+2025-01-15,Full Detailing,127,Cash,CUST1088
+2025-01-26,Wax & Polish,50,Cash,CUST3742
+2025-01-01,Full Detailing,120,Card,CUST8394
+2025-01-09,Interior Cleaning,35,Cash,CUST4630
+2025-02-16,Basic Wash,15,Card,CUST6720
+2025-04-20,Full Detailing,120,Card,CUST1543
+2025-02-26,Wax & Polish,55,Card,CUST8590
+2025-01-09,Full Detailing,123,Cash,CUST6955
+2025-05-24,Wax & Polish,52,Cash,CUST4796
+2025-03-30,Full Detailing,128,E-Wallet,CUST5078
+2025-04-28,Interior Cleaning,41,Card,CUST2858
+2025-05-10,Premium Wash,30,Card,CUST7061
+2025-03-10,Wax & Polish,54,Card,CUST3795
+2025-04-16,Full Detailing,128,Cash,CUST9748
+2025-01-28,Basic Wash,19,Card,CUST1495
+2025-03-03,Interior Cleaning,45,Cash,CUST5965
+2025-04-17,Premium Wash,26,Card,CUST7452
+2025-02-12,Interior Cleaning,38,Card,CUST1465
+2025-01-24,Interior Cleaning,36,E-Wallet,CUST7389
+2025-04-10,Premium Wash,30,Cash,CUST5376
+2025-03-02,Full Detailing,125,Cash,CUST7083
+2025-04-27,Premium Wash,27,E-Wallet,CUST1384
+2025-04-24,Wax & Polish,55,E-Wallet,CUST2707
+2025-04-04,Basic Wash,19,Card,CUST8382
+2025-02-26,Full Detailing,127,Card,CUST4614
+2025-01-10,Basic Wash,23,E-Wallet,CUST7648
+2025-01-05,Wax & Polish,55,Card,CUST2414
+2025-05-10,Wax & Polish,51,Card,CUST6882
+2025-03-30,Interior Cleaning,38,Cash,CUST7506
+2025-03-02,Basic Wash,25,Cash,CUST4005
+2025-04-04,Basic Wash,24,E-Wallet,CUST4268
+2025-04-20,Interior Cleaning,43,Card,CUST2783
+2025-02-06,Basic Wash,21,Card,CUST6736
+2025-04-29,Interior Cleaning,37,E-Wallet,CUST4804
+2025-05-20,Interior Cleaning,42,Card,CUST2810
+2025-03-16,Basic Wash,18,Cash,CUST7189
+2025-04-03,Interior Cleaning,39,E-Wallet,CUST8966
+2025-03-11,Premium Wash,31,Cash,CUST3387
+2025-02-18,Interior Cleaning,35,Card,CUST1835
+2025-02-18,Full Detailing,121,Cash,CUST7965
+2025-01-01,Full Detailing,124,Card,CUST4303
+2025-04-12,Wax & Polish,51,E-Wallet,CUST3039
+2025-04-30,Basic Wash,20,Card,CUST6626
+2025-01-28,Basic Wash,17,E-Wallet,CUST5875
+2025-01-09,Premium Wash,25,Cash,CUST7762
+2025-05-02,Interior Cleaning,40,Cash,CUST8773
+2025-05-01,Basic Wash,23,Cash,CUST7908
+2025-05-23,Basic Wash,24,Cash,CUST6710
+2025-03-30,Full Detailing,124,Card,CUST8689
+2025-02-19,Basic Wash,18,Card,CUST3482
+2025-02-04,Full Detailing,122,Card,CUST5565
+2025-05-18,Interior Cleaning,39,E-Wallet,CUST2238
+2025-01-01,Interior Cleaning,38,Cash,CUST5275
+2025-03-06,Full Detailing,121,Cash,CUST2652
+2025-01-08,Premium Wash,35,Cash,CUST1392
+2025-02-22,Wax & Polish,57,E-Wallet,CUST9767
+2025-04-13,Premium Wash,31,E-Wallet,CUST8673
+2025-01-03,Basic Wash,17,Card,CUST7014
+2025-04-04,Premium Wash,33,Card,CUST6245
+2025-04-29,Premium Wash,27,E-Wallet,CUST7307
+2025-02-13,Premium Wash,31,Cash,CUST6436
+2025-04-14,Basic Wash,24,Cash,CUST1862
+2025-01-10,Full Detailing,123,Card,CUST7558
+2025-05-15,Premium Wash,30,E-Wallet,CUST6248
+2025-03-28,Full Detailing,123,E-Wallet,CUST9750
+2025-05-23,Interior Cleaning,37,E-Wallet,CUST4213
+2025-01-26,Premium Wash,34,E-Wallet,CUST1907
+2025-05-19,Interior Cleaning,38,E-Wallet,CUST8135
+2025-01-04,Basic Wash,15,Card,CUST8085
+2025-03-20,Wax & Polish,58,E-Wallet,CUST7580
+2025-02-17,Wax & Polish,52,E-Wallet,CUST8207
+2025-03-10,Wax & Polish,58,Cash,CUST8530
+2025-04-08,Full Detailing,120,E-Wallet,CUST8355
+2025-04-29,Full Detailing,123,Cash,CUST7191
+2025-04-19,Full Detailing,127,E-Wallet,CUST3633
+2025-01-28,Interior Cleaning,38,E-Wallet,CUST2439
+2025-02-18,Premium Wash,29,Cash,CUST9959
+2025-03-09,Premium Wash,25,Cash,CUST1184
+2025-05-16,Full Detailing,123,Card,CUST4994
+2025-01-03,Premium Wash,33,E-Wallet,CUST5485
+2025-02-19,Basic Wash,23,Card,CUST9530
+2025-01-05,Basic Wash,24,Card,CUST8095
+2025-04-11,Wax & Polish,53,Card,CUST5763
+2025-05-23,Premium Wash,32,E-Wallet,CUST3854
+2025-03-23,Premium Wash,34,Card,CUST6366
+2025-01-27,Premium Wash,26,Cash,CUST7555
+2025-05-05,Full Detailing,121,E-Wallet,CUST9864
+2025-01-30,Full Detailing,121,Card,CUST8117
+2025-04-20,Premium Wash,32,E-Wallet,CUST9556
+2025-05-23,Full Detailing,128,E-Wallet,CUST6956
+2025-05-07,Interior Cleaning,36,Card,CUST1948
+2025-01-12,Basic Wash,17,Card,CUST5309
+2025-02-26,Full Detailing,127,Card,CUST3152
+2025-02-03,Basic Wash,23,E-Wallet,CUST4351
+2025-03-23,Premium Wash,27,E-Wallet,CUST6400
+2025-03-09,Interior Cleaning,43,E-Wallet,CUST4472
+2025-01-16,Premium Wash,33,E-Wallet,CUST6701
+2025-02-25,Basic Wash,25,Cash,CUST5644
+2025-04-26,Premium Wash,31,Cash,CUST4671
+2025-05-04,Interior Cleaning,37,Card,CUST8469
+2025-04-19,Full Detailing,122,Cash,CUST6868
+2025-05-11,Basic Wash,25,E-Wallet,CUST6661
+2025-01-27,Premium Wash,34,Card,CUST7967
+2025-02-20,Premium Wash,35,E-Wallet,CUST8250
+2025-05-06,Basic Wash,17,E-Wallet,CUST4437
+2025-03-07,Premium Wash,25,Card,CUST6205
+2025-03-10,Wax & Polish,58,E-Wallet,CUST6011
